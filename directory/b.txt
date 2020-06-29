@@ -8,3 +8,4 @@ laoniuchinencao
 heiheihei
 pppqqaa
 update master of b.txt
+update mirror2 of b.txt
