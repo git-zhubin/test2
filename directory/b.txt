@@ -1,5 +1,10 @@
 一起是吗你是个红薯
 更新b.txt 让git冲突
 nihaoya
+<<<<<<< HEAD
 11111 xxx
 shuiniuchinencao
+=======
+11111 xxx 
+12313123 xxx
+>>>>>>> 561baaaffd4d9cc6234e467a6e2def0c36d28c60
